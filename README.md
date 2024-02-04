@@ -6,5 +6,5 @@
 </div>
 
 # Project preview
-
+ 
 ![Restaurant-page](https://github.com/Professor-codes/RESTAURANT-PAGE/assets/126326997/9eac16cb-0aaa-47cb-901a-5964730aa6f2)
